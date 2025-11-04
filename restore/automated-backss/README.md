@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-Project Test
-=======
 Project Title:
 
 Automated Backup System using Bash Script
@@ -49,4 +46,3 @@ If required, backups can be restored with:
 Outcome:
 
 A fully functional local backup automation system that logs all activities, generates reports, and simplifies restoring previous data — ideal for learning automation and scripting fundamentals in DevOps.
->>>>>>> 285db79 (added backup files)

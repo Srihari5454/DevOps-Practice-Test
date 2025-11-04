@@ -1,0 +1,9 @@
+cat > .gitignore <<'EOF'
+# ignore backup artifacts and logs
+backups/
+logs/
+reports/
+temp/
+*.tar.gz
+*.sha256
+EOF
